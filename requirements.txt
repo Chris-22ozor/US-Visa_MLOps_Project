@@ -1,5 +1,6 @@
 scipy
 scikit-learn
+seaborn
 imblearn
 xgboost
 catboost
