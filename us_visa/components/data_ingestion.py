@@ -28,6 +28,7 @@ class DataIngestion:
         Output      :   data is returned as artifact of data ingestion components
         On Failure  :   Write an exception log and then raise an exception
         """
+        
         try:
             logging.info(f"Exporting data from mongodb")
             usvisa_data = USvisaData()

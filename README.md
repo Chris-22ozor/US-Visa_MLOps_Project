@@ -7,3 +7,7 @@
 
 1. Update constants folder
 2. entity
+3. data access 
+3. components 
+5. pipeline
+6. Main file
