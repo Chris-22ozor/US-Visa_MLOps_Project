@@ -30,6 +30,7 @@ class DataValidation:
             raise USvisaException(e,sys)
 
     def validate_number_of_columns(self, dataframe: DataFrame) -> bool:
+
         """
         Method Name :   validate_number_of_columns
         Description :   This method validates the number of columns
